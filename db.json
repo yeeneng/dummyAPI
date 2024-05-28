@@ -7,5 +7,29 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "unit_A1": {
+    "unit_number": "1111",
+    "price": "11,234",
+    "monthly_fee": "987",
+    "area": "2,423",
+    "room": "3",
+    "status": "available"
+  },
+  "unit_B2": {
+    "unit_number": "2121",
+    "price": "476,234",
+    "monthly_fee": "3456",
+    "area": "2,789",
+    "room": "5",
+    "status": "available"
+  },
+  "unit_C": {
+    "unit_number": "3321",
+    "price": "346,234",
+    "monthly_fee": "2346",
+    "area": "7,234",
+    "room": "8",
+    "status": "not available"
   }
 }

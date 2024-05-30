@@ -18,13 +18,13 @@
     "status": "available"
   },
   "unit_B2": {
-    "unit_type": "B1",
+    "unit_type": "B_nextUpdate",
     "unit_number": "2121",
     "price": "476,234",
     "monthly_fee": "3456",
     "area": "2,789",
     "room": "5",
-    "status": "available"
+    "status": "haihai"
   },
   "unit_C": {
     "unit_type": "C",
